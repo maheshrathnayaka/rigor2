@@ -1,0 +1,15 @@
+com\rigor\service\TeamServiceImpl.class
+com\rigor\init\WebAppConfig.class
+com\rigor\service\TeamService.class
+com\rigor\dao\TeamDAOImpl.class
+com\rigor\init\Initializer.class
+com\rigor\controller\LinkController.class
+com\rigor\controller\TeamController.class
+com\rigor\service\UserServiceImpl.class
+com\rigor\dao\UserDAO.class
+com\rigor\model\User.class
+com\rigor\service\UserService.class
+com\rigor\controller\UserController.class
+com\rigor\model\Team.class
+com\rigor\dao\UserDAOImpl.class
+com\rigor\dao\TeamDAO.class
